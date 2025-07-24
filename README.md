@@ -10,8 +10,7 @@ I'm a junior front-end developer based in the UK 🇬🇧, currently taking part
 - Responsive Web Design
 
 ## 🔨 Projects I’m building:
-- **Love Running** – a beginner-friendly responsive website for a fictional running club
-- **My First Project** – simple HTML structure and layout as a learning exercise
+- **Quiet Space** – a multi-page responsive website focused on mental health awareness and self-care. It features sections such as *Home*, *Gentle Reminders*, *Daily Care*, and *Safe Resources*, each designed to provide calm, accessible, and visually appealing content. The site is built using **HTML5**, **CSS3**, and **Bootstrap 5**, with attention to accessibility (WCAG AA standards) and responsive design for all devices.
 
 ## 📚 Currently learning:
 - JavaScript & Python
