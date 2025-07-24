@@ -11,6 +11,8 @@ I'm a junior front-end developer based in the UK 🇬🇧, currently taking part
 
 ## 🔨 Projects I’m building:
 - **Quiet Space** – a multi-page responsive website focused on mental health awareness and self-care. It features sections such as *Home*, *Gentle Reminders*, *Daily Care*, and *Safe Resources*, each designed to provide calm, accessible, and visually appealing content. The site is built using **HTML5**, **CSS3**, and **Bootstrap 5**, with attention to accessibility (WCAG AA standards) and responsive design for all devices.
+- ### Quiet Space – Preview
+![Quiet Space Preview](docs/screenshots/mockup.png)
 
 ## 📚 Currently learning:
 - JavaScript & Python
