@@ -10,13 +10,6 @@ I'm a junior front-end developer based in the UK 🇬🇧, currently taking part
 [![Quiet Space Mockup](https://github.com/user-attachments/assets/da53e33d-d455-40c0-b557-45b3fe81c183)](https://xalex-an.github.io/mental-health-awareness/)
 
 [🔗 **View Live Project**](https://xalex-an.github.io/mental-health-awareness/)
-
-
-## 📚 Currently learning:
-- JavaScript & Python
-- Flexbox & CSS Grid
-- Git branching and pull requests
-- Writing clean, semantic code
   
 ### Tech I’m working with:
 
