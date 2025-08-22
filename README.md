@@ -12,6 +12,19 @@ I'm a junior front-end developer based in the UK 🇬🇧, currently taking part
 
 
 [🔗 **View Live Project**](https://xalex-an.github.io/mental-health-awareness/)
+
+## 💡 Quizia – Hackathon Web App  
+
+**Quizia** is a 4-day hackathon project – a quiz web app designed to be simple, fast, and responsive.  
+- Multiple-choice questions  
+- Score tracking  
+- Modern UI with HTML, CSS, and JavaScript  
+
+🔗 [See the Live Project](https://sourtarte.github.io/hackathon-quiz-game/)  
+
+<img width="1588" height="666" alt="mockup" src="https://github.com/user-attachments/assets/aca43e16-31c8-4970-867c-2093a38adf23" />
+ets/mockup.png)
+
   
 ### Tech I’m working with:
 
@@ -24,6 +37,7 @@ I'm a junior front-end developer based in the UK 🇬🇧, currently taking part
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
 </p>
+
 
 
 ## 🌿 A little more about me:
