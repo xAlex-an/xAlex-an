@@ -3,27 +3,33 @@
 I'm a junior front-end developer based in the UK 🇬🇧, currently taking part in a Full Stack Web Developer bootcamp. I’m passionate about web development, holistic health, and building beautiful, responsive websites.
 
 ## 🔨 Projects I’m building:
-## Quiet Space
 
-**Quiet Space** – a multi-page responsive website focused on mental health awareness and self-care. It features sections such as *Home*, *Gentle Reminders*, *Daily Care*, and *Safe Resources*, each designed to provide calm, accessible, and visually appealing content. The site is built using **HTML5**, **CSS3**, and **Bootstrap 5**, with attention to accessibility (WCAG AA standards) and responsive design for all devices.
+## 🌿 Quiet Space  
 
-<img width="1593" height="707" alt="Mockup" src="https://github.com/user-attachments/assets/69d9dd63-f8af-4fb2-bd38-da3b3b2af785" />
+**Quiet Space** – a multi-page responsive website focused on mental health awareness and self-care.  
+It features sections such as *Home*, *Gentle Reminders*, *Daily Care*, and *Safe Resources*, each designed to provide calm, accessible, and visually appealing content.  
 
+**Tech stack:** HTML5, CSS3, Bootstrap 5  
+**Highlights:** Accessibility (WCAG AA standards), fully responsive design  
 
+<img width="1593" height="707" alt="Quiet Space Mockup" src="https://github.com/user-attachments/assets/69d9dd63-f8af-4fb2-bd38-da3b3b2af785" />
 
-[🔗 **View Live Project**](https://xalex-an.github.io/mental-health-awareness/)
+🔗 [**View Live Project**](https://xalex-an.github.io/mental-health-awareness/)  
+
+---
 
 ## 💡 Quizia – Hackathon Web App  
 
-**Quizia** is a 4-day hackathon project – a quiz web app designed to be simple, fast, and responsive.  
-- Multiple-choice questions  
-- Score tracking  
-- Modern UI with HTML, CSS, and JavaScript  
+**Quizia** – a quiz web app created in 4 days during a hackathon challenge.  
+The app allows users to answer multiple-choice questions, track their scores, and enjoy a simple, responsive interface.  
 
-🔗 [See the Live Project](https://sourtarte.github.io/hackathon-quiz-game/)  
+**Tech stack:** HTML5, CSS3, JavaScript  
+**Highlights:** Multiple-choice questions, score tracking, responsive UI  
 
-<img width="1588" height="666" alt="mockup" src="https://github.com/user-attachments/assets/aca43e16-31c8-4970-867c-2093a38adf23" />
-ets/mockup.png)
+<img width="1588" height="666" alt="Quizia Mockup" src="https://github.com/user-attachments/assets/aca43e16-31c8-4970-867c-2093a38adf23" />
+
+🔗 [**See the Live Project**](https://sourtarte.github.io/hackathon-quiz-game/)  
+
 
   
 ### Tech I’m working with:
