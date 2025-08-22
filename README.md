@@ -31,6 +31,7 @@ The app allows users to answer multiple-choice questions, track their scores, an
 🔗 [**See the Live Project**](https://sourtarte.github.io/hackathon-quiz-game/)  
 
 
+  ---
   
 ### Tech I’m working with:
 
