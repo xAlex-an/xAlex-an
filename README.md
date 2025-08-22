@@ -23,7 +23,7 @@ It features sections such as *Home*, *Gentle Reminders*, *Daily Care*, and *Safe
 **Quizia** – a quiz web app created in 4 days during a hackathon challenge.  
 The app allows users to answer multiple-choice questions, track their scores, and enjoy a simple, responsive interface.  
 
-**Tech stack:** HTML5, CSS3, JavaScript  
+**Tech stack:** HTML5, CSS3, Bootstrap 5, JavaScript  
 **Highlights:** Multiple-choice questions, score tracking, responsive UI  
 
 <img width="1588" height="666" alt="Quizia Mockup" src="https://github.com/user-attachments/assets/aca43e16-31c8-4970-867c-2093a38adf23" />
