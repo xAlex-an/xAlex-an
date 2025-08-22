@@ -14,7 +14,9 @@ It features sections such as *Home*, *Gentle Reminders*, *Daily Care*, and *Safe
 
 <img width="1593" height="707" alt="Quiet Space Mockup" src="https://github.com/user-attachments/assets/69d9dd63-f8af-4fb2-bd38-da3b3b2af785" />
 
-🔗 [**View Live Project**](https://xalex-an.github.io/mental-health-awareness/)  
+🔗 [**View Live Project**](https://xalex-an.github.io/mental-health-awareness/)
+💻 [**Source Code**](https://github.com/xAlex-an/mental-health-awareness)  
+
 
 ---
 
@@ -28,7 +30,8 @@ The app allows users to answer multiple-choice questions, track their scores, an
 
 <img width="1588" height="666" alt="Quizia Mockup" src="https://github.com/user-attachments/assets/aca43e16-31c8-4970-867c-2093a38adf23" />
 
-🔗 [**See the Live Project**](https://sourtarte.github.io/hackathon-quiz-game/)  
+🔗 [**See the Live Project**](https://sourtarte.github.io/hackathon-quiz-game/)
+💻 [**Source Code**](https://github.com/xAlex-an/quiz-app-hackathon)  
 
 
   ---
