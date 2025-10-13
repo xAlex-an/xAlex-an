@@ -11,9 +11,7 @@ Each recipe features a photo, description, and tags for easy exploration. The si
 
 **Tech stack:** Python, Django, HTML5, CSS3, Bootstrap 5  
 **Highlights:** User authentication, commenting system, pagination, responsive design  
-
-<img width="1588" height="690" alt="Make Me Sweet Mockup" src="<img width="940" height="788" alt="Beige New Product Mockup Now Available Facebook Post (1)" src="https://github.com/user-attachments/assets/fa0e8826-22a9-4695-af40-cd7d907d2167" />
-" />
+src="<img width="940" height="788" alt="Beige New Product Mockup Now Available Facebook Post (1)" src="https://github.com/user-attachments/assets/fa0e8826-22a9-4695-af40-cd7d907d2167" />
 
 🔗 [**View Live Project**](https://make-me-sweet-f649b0b1112e.herokuapp.com/)  
 💻 [**Source Code**](https://github.com/xAlex-an/make-me-sweet)  
