@@ -4,6 +4,21 @@ I'm a junior front-end developer based in the UK 🇬🇧, currently taking part
 
 ## 🔨 Projects I’m building:
 
+## 🍰 Make Me Sweet – Django Dessert Blog  
+
+**Make Me Sweet** – a full-stack Django web app for dessert lovers, where users can browse, share, and comment on sweet recipes.  
+Each recipe features a photo, description, and tags for easy exploration. The site also includes pagination, login and registration, and a fully responsive design for seamless browsing on any device.  
+
+**Tech stack:** Python, Django, HTML5, CSS3, Bootstrap 5  
+**Highlights:** User authentication, commenting system, pagination, responsive design  
+
+<img width="1588" height="690" alt="Make Me Sweet Mockup" src="<img width="940" height="788" alt="Beige New Product Mockup Now Available Facebook Post (1)" src="https://github.com/user-attachments/assets/fa0e8826-22a9-4695-af40-cd7d907d2167" />
+" />
+
+🔗 [**View Live Project**](https://make-me-sweet-f649b0b1112e.herokuapp.com/)  
+💻 [**Source Code**](https://github.com/xAlex-an/make-me-sweet)  
+
+
 ## 🌿 Quiet Space  
 
 **Quiet Space** – a multi-page responsive website focused on mental health awareness and self-care.  
