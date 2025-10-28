@@ -16,6 +16,20 @@ Each recipe features a photo, description, and tags for easy exploration. The si
 🔗 [**View Live Project**](https://make-me-sweet-f649b0b1112e.herokuapp.com/)  
 💻 [**Source Code**](https://github.com/xAlex-an/make-me-sweet)  
 
+## 🎨 ConstCollection – Django E-Commerce Platform  
+
+**ConstCollection** – a full-stack Django e-commerce web application built during a hackathon for a real stakeholder, a Swedish artist launching her online gallery.  
+The platform allows users to browse, view, and purchase artworks. Our team focused on creating a visually appealing and user-friendly design that reflects the artist’s aesthetic vision.  
+The project was selected as the stakeholder’s **favourite** and received special praise for its design and functionality.  
+
+**Tech stack:** Python, Django, HTML5, CSS3, JavaScript, Bootstrap 5  
+**Highlights:** Product catalog, user authentication, shopping cart, responsive design, collaborative development  
+<img width="1080" height="1080" alt="mockup" src="https://github.com/user-attachments/assets/22c1a0b9-773e-4218-991b-bbc948da56d5" />
+
+🔗 [**View Live Project**]([https://your-live-demo-link-here.com](https://constcollection-e07f8eb0609e.herokuapp.com/))  
+💻 [**Source Code**]([https://github.com/yourusername/constcollection](https://github.com/xAlex-an/constcollection-hackathon))
+
+
 
 ## 🌿 Quiet Space  
 
