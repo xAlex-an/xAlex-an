@@ -10,7 +10,7 @@ Each recipe features a photo, description, and tags for easy exploration. The si
 
 **Tech stack:** Python, Django, HTML5, CSS3, Bootstrap 5  
 **Highlights:** User authentication, commenting system, pagination, responsive design  
-<img width="940" height="788" alt="Beige New Product Mockup Now Available Facebook Post (1)" src="https://github.com/user-attachments/assets/fa0e8826-22a9-4695-af40-cd7d907d2167" />
+<img width="1200" height="788" alt="" src="https://github.com/user-attachments/assets/fa0e8826-22a9-4695-af40-cd7d907d2167" />
 
 
 https://github.com/user-attachments/assets/f88c7b77-4a2f-4ea8-b4da-e392bc2fab9a
