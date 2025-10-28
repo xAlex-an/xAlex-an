@@ -1,8 +1,7 @@
-# Hi there! 👋 I'm Aleksandra
+Hi there! 👋 I'm Aleksandra
+I'm a junior front-end developer based in the UK 🇬🇧, recently graduated from a Full Stack Web Developer bootcamp. I enjoy building responsive websites that combine clean code with thoughtful, intuitive design. I'm passionate about web development, holistic health, and creating digital spaces that feel calm and beautifully crafted.
 
-I'm a junior front-end developer based in the UK 🇬🇧, currently taking part in a Full Stack Web Developer bootcamp. I’m passionate about web development, holistic health, and building beautiful, responsive websites.
-
-## 🔨 Projects I’m building:
+🔨 Projects I’ve built:
 
 ## 🍰 Make Me Sweet – Django Dessert Blog  
 
@@ -15,6 +14,8 @@ Each recipe features a photo, description, and tags for easy exploration. The si
 
 🔗 [**View Live Project**](https://make-me-sweet-f649b0b1112e.herokuapp.com/)  
 💻 [**Source Code**](https://github.com/xAlex-an/make-me-sweet)  
+
+---
 
 ## 🎨 ConstCollection – Django E-Commerce Platform  
 
@@ -30,7 +31,7 @@ The project was selected as the stakeholder’s **favourite** and received speci
 🔗 [**View Live Project**](https://constcollection-e07f8eb0609e.herokuapp.com/)  
 💻 [**Source Code**](https://github.com/xAlex-an/constcollection-hackathon)
 
-
+---
 
 ## 🌿 Quiet Space  
 
@@ -79,8 +80,7 @@ The app allows users to answer multiple-choice questions, track their scores, an
 
 
 ## 🌿 A little more about me:
-When I'm not coding, I'm probably watering my plants or baking cakes.  
-For me learning to code is like baking — it takes patience, creativity, and a little bit of magic ✨
+When I’m not writing code, you’ll probably find me in the kitchen baking something sweet or tending to my plants. I see coding a bit like baking — it’s all about layering ideas, trusting the process, and adding a touch of magic ✨
 
 ## 🌱 My goals:
 - Build a clean, modern portfolio site from scratch
