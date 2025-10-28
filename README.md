@@ -13,7 +13,11 @@ Each recipe features a photo, description, and tags for easy exploration. The si
 <img width="1200" height="788" alt="" src="https://github.com/user-attachments/assets/fa0e8826-22a9-4695-af40-cd7d907d2167" />
 
 
-https://github.com/user-attachments/assets/f88c7b77-4a2f-4ea8-b4da-e392bc2fab9a
+
+https://github.com/user-attachments/assets/0fb08d46-0d13-47fa-9188-82800e956fe1
+
+
+
 
 
 🔗 [**View Live Project**](https://make-me-sweet-f649b0b1112e.herokuapp.com/)  
