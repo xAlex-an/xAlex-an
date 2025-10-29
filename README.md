@@ -1,5 +1,5 @@
 Hi there! 👋 I'm Aleksandra
-I'm a junior front-end developer based in the UK 🇬🇧, recently graduated from a Full Stack Web Developer bootcamp. I enjoy building responsive websites that combine clean code with thoughtful, intuitive design. I'm passionate about web development, holistic health, and creating digital spaces that feel calm and beautifully crafted.
+I’m a junior full-stack developer based in the UK. I recently completed the Full Stack Web Developer bootcamp at Code Institute, where I learned how to build responsive and user-friendly applications using HTML, CSS, JavaScript, Python, and Django.d.
 
 🔨 Projects I’ve built:
 
@@ -88,12 +88,15 @@ The app allows users to answer multiple-choice questions, track their scores, an
 
 
 ## 🌿 A little more about me:
-When I’m not writing code, you’ll probably find me in the kitchen baking something sweet or tending to my plants. I see coding a bit like baking — it’s all about layering ideas, trusting the process, and adding a touch of magic ✨
+When I’m not writing code, you’ll probably find me in the kitchen baking something sweet or tending to my plants. I see coding a bit like baking, it’s all about layering ideas, trusting the process, and adding a touch of magic ✨
 
-## 🌱 My goals:
-- Build a clean, modern portfolio site from scratch
-- Learn React and Tailwind CSS
-- Contribute to open-source in the future
+## 🌱 My Goals
+
+- Find my first developer job in a kind, collaborative team 
+- Learn React and Tailwind CSS to expand my front-end toolkit  
+- Explore Figma to improve my UI/UX design workflow  
+- Get more confident with WordPress for flexible content management   
+- Contribute to open-source projects and grow through community
 
 ### Connect with me:
 
