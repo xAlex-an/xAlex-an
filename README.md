@@ -55,14 +55,13 @@ It features sections such as *Home*, *Gentle Reminders*, *Daily Care*, and *Safe
 💻 [**Source Code**](https://github.com/xAlex-an/mental-health-awareness)  
 
 ---
-##🎃 Purranormal
+## 🎃 Purranormal
 **Created during the Code Institute Halloween Hackathon**
 
 Purranormal is a full-stack Django web application that helps witches find their perfect feline familiar through a swipe-based interface inspired by dating apps.  
 Users can sign up, browse magical cat profiles, and view their own submissions in a personalized dashboard.
 
-**Tech stack:**  
-Python · Django · HTML5 · CSS3 · Bootstrap 5 · JavaScript (ES6+)
+**Tech stack:**  Python · Django · HTML5 · CSS3 · Bootstrap 5 · JavaScript (ES6+)
 
 **Highlights:**  
 • Swipe-based familiar matching  
