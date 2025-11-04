@@ -58,8 +58,7 @@ It features sections such as *Home*, *Gentle Reminders*, *Daily Care*, and *Safe
 ## 🎃 Purranormal
 **Created during the Code Institute Halloween Hackathon**
 
-Purranormal is a full-stack Django web application that helps witches find their perfect feline familiar through a swipe-based interface inspired by dating apps.  
-Users can sign up, browse magical cat profiles, and view their own submissions in a personalized dashboard.
+Purranormal is a full-stack Django web application that helps witches find their perfect feline familiar through a swipe-based interface inspired by dating apps. Users can sign up, browse magical cat profiles, and view their own submissions in a personalized dashboard.
 
 **Tech stack:**  Python · Django · HTML5 · CSS3 · Bootstrap 5 · JavaScript (ES6+)
 
@@ -70,8 +69,9 @@ Users can sign up, browse magical cat profiles, and view their own submissions i
 
 ![mockup_1](https://github.com/user-attachments/assets/81fdcfa5-946c-4129-b9d5-51ea6fb9c0ff)
 
-🔗 View Live Project: https://purranormal-26af1e8cdfe0.herokuapp.com/
-💻 Source Code: https://github.com/xAlex-an/Purranormal-Halloween-Hackathon
+🔗 [View Live Project](https://purranormal-26af1e8cdfe0.herokuapp.com/)  
+💻 [Source Code](https://github.com/xAlex-an/Purranormal-Halloween-Hackathon)
+
 ---
 
 ## 💡 Quizia – Hackathon Web App  
