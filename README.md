@@ -1,5 +1,5 @@
 Hi there! 👋 I'm Aleksandra
-I’m a junior full-stack developer based in the UK. I recently completed the Full Stack Web Developer bootcamp at Code Institute, where I learned how to build responsive and user-friendly applications using HTML, CSS, JavaScript, Python, and Django.d.
+I’m a junior full-stack developer based in the UK. I recently completed the Full Stack Web Developer bootcamp at Code Institute, where I learned how to build responsive and user-friendly applications using HTML, CSS, JavaScript, Python, and Django.
 
 🔨 Projects I’ve built:
 
