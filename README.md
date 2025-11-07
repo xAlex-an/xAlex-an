@@ -91,25 +91,25 @@ The app allows users to answer multiple-choice questions, track their scores, an
 
 ### 📅 My Journey into tech — Month by Month  
 
-Every month since I decided to change careers has been a new step forward — full of learning, growth, and small wins that keep me motivated.  
+Every month since I decided to change careers has been a new step forward, full of learning, growth, and small wins that keep me motivated.  
 Here’s a look at my journey so far 👇  
 
 | Month        | Milestone                                                                 |
 |---------------|---------------------------------------------------------------------------|
 | **Feb 2025**  | Made the big decision to change careers and started exploring the world of web development 🌱 |
-| **Mar 2025**  | Began my first Udemy course in **HTML & CSS** — excited to finally see my first lines of code come to life! |
+| **Mar 2025**  | Began my first Udemy course in **HTML & CSS** - excited to finally see my first lines of code come to life! |
 | **Apr 2025**  | Completed the course and built several **mini projects**, gaining confidence and curiosity to keep going 💪 |
-| **May 2025**  | Continued practicing through **FreeCodeCamp**, improving my  |
-| **Jun 2025**  | Joined the **CI Full Stack Bootcamp** — diving into Python, Django, JavaScript, Git, and Agile teamwork |
-| **Jul 2025**  | Built and deployed my **first milestone project** using Bootstrap 5 — a huge moment seeing it online for the first time |
-| **Aug 2025**  | Took part in my **first hackathon** — learned to collaborate in Git and even solved my **first merge conflict** (and celebrated it!) 🎉 |
-| **Sep 2025**  | Developed **Make Me Sweet**, my **capstone Django recipe app** with CRUD functionality and media uploads — my proudest solo project yet 🍰 |
-| **Oct 2025**  | Worked on **ConstCollection**, my **first real-world project for a business** — a Django e-commerce app for a Swedish artist launching her gallery. She picked our solution as her **favourite**, which made my month |
-| **Oct 30, 2025** | 🎓 **Completed the Code Institute Full-Stack Developer Skills Bootcamp** — 16 weeks of intense learning and growth, officially certified! |
-| **Oct–Nov 2025** | Joined the **CI Halloween Hackathon** — our spooky-themed app won **2nd place**! 🎃 |
+| **May 2025**  | Continued learning with FreeCodeCamp - it helped me get more comfortable with writing clean code  |
+| **Jun 2025**  | Joined the **CI Full Stack Bootcamp** - diving into Python, Django, JavaScript, Git, and Agile teamwork |
+| **Jul 2025**  | Built and deployed my **first milestone project**, experimenting with Bootstrap 5 for the first time. Seeing it live was a big moment! |
+| **Aug 2025**  | Took part in my **first hackathon** - learned to collaborate in Git and even solved my **first merge conflict** (and celebrated it!) 🎉 |
+| **Sep 2025**  | Developed **Make Me Sweet**, my **capstone Django recipe app** with CRUD functionality and media uploads - my proudest solo project yet 🍰 |
+| **Oct 2025**  | Worked on **ConstCollection**, my **first real-world project for a business** - a Django e-commerce app for a Swedish artist launching her gallery. She picked our solution as her **favourite**, which made my month |
+| **Oct 30, 2025** | 🎓 **Completed the Code Institute Full-Stack Developer Skills Bootcamp**. 16 weeks of intense learning and growth, officially certified! |
+| **Oct–Nov 2025** | Joined the **CI Halloween Hackathon** - our spooky-themed app won **2nd place**! 🎃 |
 | **Nov 2025**  | Completed the **CFG Kickstarter Class**, refreshing my Python fundamentals and celebrating how far I’ve come |
 
-I’m currently looking for my first job as a junior developer — ideally in a kind, collaborative team where I can grow and contribute.
+I’m currently looking for my first job as a junior developer. Ideally in a kind, collaborative team where I can grow and contribute.
 
 ---
 
