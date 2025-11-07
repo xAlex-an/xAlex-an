@@ -17,9 +17,6 @@ Each recipe features a photo, description, and tags for easy exploration. The si
 https://github.com/user-attachments/assets/0fb08d46-0d13-47fa-9188-82800e956fe1
 
 
-
-
-
 🔗 [**View Live Project**](https://make-me-sweet-f649b0b1112e.herokuapp.com/)  
 💻 [**Source Code**](https://github.com/xAlex-an/make-me-sweet)  
 
@@ -55,8 +52,9 @@ It features sections such as *Home*, *Gentle Reminders*, *Daily Care*, and *Safe
 💻 [**Source Code**](https://github.com/xAlex-an/mental-health-awareness)  
 
 ---
+
 ## 🎃 Purranormal
-**Created during the Code Institute Halloween Hackathon**
+**Created during the Code Institute Halloween Hackathon, where it won 2nd place**
 
 Purranormal is a full-stack Django web application that helps witches find their perfect feline familiar through a swipe-based interface inspired by dating apps. Users can sign up, browse magical cat profiles, and view their cats in a personalized dashboard.
 
@@ -67,7 +65,8 @@ Purranormal is a full-stack Django web application that helps witches find their
 • User authentication and personalized dashboard   
 • Themed team section with GitHub & LinkedIn links
 
-![mockup_1](https://github.com/user-attachments/assets/81fdcfa5-946c-4129-b9d5-51ea6fb9c0ff)
+![mockup_1](https://github.com/user-attachments/assets/39f6bdf1-a43e-4c31-86c6-190db43f2e8d)
+
 
 🔗 [View Live Project](https://purranormal-26af1e8cdfe0.herokuapp.com/)  
 💻 [Source Code](https://github.com/xAlex-an/Purranormal-Halloween-Hackathon)
@@ -88,32 +87,46 @@ The app allows users to answer multiple-choice questions, track their scores, an
 💻 [**Source Code**](https://github.com/xAlex-an/quiz-app-hackathon)  
 
 
-  ---
-  
-### Tech I’m working with:
+---
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
-</p>
+### 📅 My Journey into tech — Month by Month  
 
+Every month since I decided to change careers has been a new step forward — full of learning, growth, and small wins that keep me motivated.  
+Here’s a look at my journey so far 👇  
 
+| Month        | Milestone                                                                 |
+|---------------|---------------------------------------------------------------------------|
+| **Feb 2025**  | Made the big decision to change careers and started exploring the world of web development 🌱 |
+| **Mar 2025**  | Began my first Udemy course in **HTML & CSS** — excited to finally see my first lines of code come to life! |
+| **Apr 2025**  | Completed the course and built several **mini projects**, gaining confidence and curiosity to keep going 💪 |
+| **May 2025**  | Continued practicing through **FreeCodeCamp**, improving my  |
+| **Jun 2025**  | Joined the **CI Full Stack Bootcamp** — diving into Python, Django, JavaScript, Git, and Agile teamwork |
+| **Jul 2025**  | Built and deployed my **first milestone project** using Bootstrap 5 — a huge moment seeing it online for the first time |
+| **Aug 2025**  | Took part in my **first hackathon** — learned to collaborate in Git and even solved my **first merge conflict** (and celebrated it!) 🎉 |
+| **Sep 2025**  | Developed **Make Me Sweet**, my **capstone Django recipe app** with CRUD functionality and media uploads — my proudest solo project yet 🍰 |
+| **Oct 2025**  | Worked on **ConstCollection**, my **first real-world project for a business** — a Django e-commerce app for a Swedish artist launching her gallery. She picked our solution as her **favourite**, which made my month |
+| **Oct 30, 2025** | 🎓 **Completed the Code Institute Full-Stack Developer Skills Bootcamp** — 16 weeks of intense learning and growth, officially certified! |
+| **Oct–Nov 2025** | Joined the **CI Halloween Hackathon** — our spooky-themed app won **2nd place**! 🎃 |
+| **Nov 2025**  | Completed the **CFG Kickstarter Class**, refreshing my Python fundamentals and celebrating how far I’ve come |
+
+I’m currently looking for my first job as a junior developer — ideally in a kind, collaborative team where I can grow and contribute.
+
+---
+
+## 💼 What’s Next?
+ 
+- Build a larger Python-based project to strengthen back-end skills and demonstrate end-to-end development  
+- Expand my front-end toolkit by learning React and Tailwind CSS  
+- Improve my UI/UX workflow through hands-on practice with Figma  
+- Get comfortable with WordPress for flexible content management and client-friendly solutions  
+- Contribute to open-source projects and grow through community-driven collaboration
+
+---
 
 ## 🌿 A little more about me:
-When I’m not writing code, you’ll probably find me in the kitchen baking something sweet or tending to my plants. I see coding a bit like baking, it’s all about layering ideas, trusting the process, and adding a touch of magic ✨
+When I’m not writing code, you’ll probably find me in the kitchen baking something sweet or tending to my plants. I see coding a bit like baking, it’s all about layering ideas, trusting the process, and bringing in some creativity at the end.
 
-## 🌱 My Goals
-
-- Find my first developer job in a kind, collaborative team 
-- Learn React and Tailwind CSS to expand my front-end toolkit  
-- Explore Figma to improve my UI/UX design workflow  
-- Get more confident with WordPress for flexible content management   
-- Contribute to open-source projects and grow through community
+---
 
 ### Connect with me:
 
@@ -128,8 +141,3 @@ When I’m not writing code, you’ll probably find me in the kitchen baking som
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   </a>
 </p>
-
-
-
-Thanks for visiting my profile! 💜
-
