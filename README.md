@@ -110,7 +110,8 @@ Here’s a look at my journey so far 👇
 | **Oct 2025**  | Worked on **ConstCollection**, **real-world project for a business** - a Django e-commerce app for a Swedish artist launching her gallery. She picked our solution as her **favourite**, which made my month |
 | **Oct 30, 2025** | 🎓 **Completed the Code Institute Full-Stack Developer Skills Bootcamp**. 16 weeks of intense learning and growth, officially certified! |
 | **Oct–Nov 2025** | Joined the **CI Halloween Hackathon** - our spooky-themed app won **2nd place**! 🎃 |
-| **Nov 2025**  | Completed the **CFG Kickstarter Class**, refreshing my Python and JS fundamentals and kicked off the **100 Days of Code Python Bootcamp** to keep growing 🐍 |
+| **Nov 2025**  | Took two **CFG Kickstarter Classes** to refresh core Python & JS skills (24h total), then started the **100 Days of Code Python Bootcamp** to keep growing 🐍 |
+
 
 I’m currently looking for my first job as a junior developer. Ideally in a kind, collaborative team where I can grow and contribute.
 
