@@ -112,6 +112,7 @@ Here’s a look at my journey so far 👇
 | **Nov 2025** | Joined the **CI Halloween Hackathon** - our spooky-themed app won **2nd place**! 🎃 |
 | **Dec 2025**  | Took two **CFG Kickstarter Classes** to refresh core Python & JS skills |
 | **Jan - Feb 2026**  | Started the **100 Days of Code Python Bootcamp** to keep growing 🐍 |
+| **Mar 2026**  | Started the **CFGDegree programme with Code First Girls**, sponsored by the **Cognizant Foundation**. This felt like a meaningful next step for me, giving me the chance to learn, and be part of a community of women in tech |
 
 
 I’m currently looking for my first job as a junior developer. Ideally in a kind, collaborative team where I can grow and contribute.
